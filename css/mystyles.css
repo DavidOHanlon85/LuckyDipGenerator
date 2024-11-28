@@ -1,0 +1,14 @@
+
+.mybox {
+    border: thin solid black;
+    padding: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin: 10px;
+}
+
+#mybutton {
+    width: 150px;
+    padding: 20px;
+    text-align: center;
+}
